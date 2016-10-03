@@ -1,5 +1,4 @@
 console.log("Hello, fellow developer!");
 
-for (var i = 0; i < 5; i++) {
-	console.log("I uselessely looped " + (i+1) + " times!");
-}
+$('h1').fadeOut(5000)
+$('h1').fadeIn(5000)
